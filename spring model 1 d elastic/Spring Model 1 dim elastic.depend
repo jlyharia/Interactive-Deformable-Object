@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1348860117 source:d:\code\computer animation\lab 0\lab 0 - 2012.09.06\main.cpp
+	<GL/glut.h>
+	<iostream>
+
+1364265704 source:d:\dropbox\code\opengl\interactive deformable object\spring model 1 dimention\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1364781274 source:d:\dropbox\code\opengl\interactive deformable object\spring model 1 d elastic\main.cpp
+	<GL/glut.h>
+	<iostream>
+

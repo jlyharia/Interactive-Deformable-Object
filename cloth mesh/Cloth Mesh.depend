@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1362540078 source:d:\code\test case c++\cloth mesh\main.cpp
+	<iostream>
+	<vector>
+
+1363214981 source:d:\code\opengl\interactive deformable object\cloth mesh\main.cpp
+	<iostream>
+	<vector>
+

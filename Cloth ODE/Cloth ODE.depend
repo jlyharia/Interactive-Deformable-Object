@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364757366 source:d:\dropbox\code\opengl\interactive deformable object\cloth ode\main.cpp
+	<iostream>
+	<vector>
+	"TrivialOutput.h"
+
+1364758031 d:\dropbox\code\opengl\interactive deformable object\cloth ode\trivialoutput.h
+	<iostream>
+	<vector>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1364758031 source:d:\dropbox\code\opengl\interactive deformable object\cloth ode\trivialoutput.cpp
+	"TrivialOutput.h"
+

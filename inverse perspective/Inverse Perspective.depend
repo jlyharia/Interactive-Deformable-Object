@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1361311085 source:d:\code\opengl\glm trial\main.cpp
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1363668420 source:d:\code\opengl\interactive deformable object\glm trial\main.cpp
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1363817198 source:d:\code\opengl\interactive deformable object\inverse perspective\main.cpp
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+

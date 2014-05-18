@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1363030759 source:d:\code\opengl\interactive deformable object\mousecontrol\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
